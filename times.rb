@@ -1,5 +1,5 @@
 def using_times
-	10.times do
-	  "This is my loop"
+	6.times do
+	  "Wingardium Leviosa"
 	end
 end
