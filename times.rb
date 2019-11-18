@@ -3,7 +3,3 @@ def using_times
 	  "This is my loop"
 	end
 end
-
-
-
-
